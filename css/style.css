@@ -49,9 +49,14 @@ a {
     padding-bottom: 24px; */
 }
 
-.header-list-item{
+/* .header-list-item{
     padding-top: 24px;
         padding-bottom: 24px;
+} */
+
+.contact-item{
+    padding-top: 24px;
+    padding-bottom: 24px;
 }
 
 .header-container{
@@ -67,8 +72,7 @@ a {
 }
 
 .title{
-    padding-top: 188px;
-    padding-bottom: 188px;
+    padding: 188px 0;
 }
 
 .description{
@@ -210,7 +214,7 @@ a {
 .team {
     background: #f4f4fd;
     padding-bottom: 120px;
-        padding-bottom: 120px;
+    padding-bottom: 120px;
 }
 .team-list{
     /* padding-bottom: 120px;
